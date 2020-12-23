@@ -9,4 +9,4 @@
 
 To use these programs, first compile using a Fortran compiler e.g. `ifort -o [program-name] [program-name].f90`.
 
-See the wiki of this page for more details.
+See the [wiki](https://github.com/pierrefaux/tools-plink/wiki) of this page for more details.
