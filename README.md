@@ -7,6 +7,6 @@
 
 **archaicMapping** : Compute linear association between phenotypes and archaic introgression tracts _(in development)_
 
-To use these programs, first compile using a Fortran90 compiler (gfortran, f95, ifort), e.g. `ifort -o [program-name] [program-name].f90`.
+To use these programs, first compile using a Fortran compiler e.g. `ifort -o [program-name] [program-name].f90`.
 
 See the wiki of this page for more details.
